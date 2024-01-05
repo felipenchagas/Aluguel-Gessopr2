@@ -1,0 +1,7 @@
+@charset "utf-8";
+.funnyText span.bottom,
+.funnyText span.left,
+.funnyText span.right,
+.funnyText span.top {
+    position: absolute;
+}

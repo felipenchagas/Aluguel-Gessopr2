@@ -1,0 +1,15 @@
+User-agent: *
+Allow: 
+User-agent: Googlebot
+Allow: 
+User-agent: Googlebot-Image
+Allow: 
+User-agent: Mediapartners-Google
+Allow: 
+User-agent: Adsbot-Google
+Allow: 
+
+Sitemap: https://gessopr.com.br/sitemap.xml
+Sitemap: https://gessopr.com.br/sitemap-bairros.xml
+Sitemap: https://gessopr.com.br/sitemap-pr.xml
+Sitemap: https://gessopr.com.br/blog/sitemap.xml

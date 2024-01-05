@@ -1,0 +1,265 @@
+@charset "utf-8";
+/* CSS Document */
+    .about-us .about-us-details {
+        padding: 70px 0 0 50px;
+        width: 78%;
+    }
+
+    .about-us .about-us-details h2 {
+        margin-bottom: 0px;
+    }
+
+    .about-us .about-us-details p {
+        display: none;
+    }
+	 .tabs-container.team-tab .tabs-frame-content .team-details .team-details-info {
+        width: 72%;
+    }
+
+    .tabs-container.team-tab .tabs-frame-content .team-details .column.no-space.dt-sc-one-fourth {
+        width: 28%;
+    }
+
+    .tabs-frame-content .team-details .column.no-space.dt-sc-one-fourth {
+        right: 6%;
+    }
+
+    .tabs-container.team-tab .tabs-frame-content h4, .tabs-container.team-tab .tabs-frame-content h5 {
+        margin-bottom: 5px;
+    }
+
+    .tabs-container.team-tab .tabs-frame-content p {
+        margin-top: 10px;
+    }
+
+    .tabs-container ul.tabs-frame li a {
+        font-size: 15px;
+    }
+
+    .tabs-container ul.tabs-frame li i {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .tabs-frame-content {
+        width: 94.3%;
+    }
+	 .planning-tab .timeline-circles .circle-1 {
+        width: 288px;
+        height: 288px;
+        margin-top: 55px;
+    }
+
+    .planning-tab .timeline-circles .circle-2 {
+        width: 190px;
+        height: 190px;
+    }
+
+    .planning-tab .timeline-circles .circle-3 {
+        width: 114px;
+        height: 114px;
+        margin-top: 39px;
+    }
+
+    .planning-tab .timeline-circles .circle-4 {
+        height: 57px;
+        margin-top: 29px;
+        width: 57px;
+    }
+
+    .planning-tab .timeline-circles p {
+        font-size: 18px;
+    }
+
+    .planning-tab .timeline-circles .circle-1 p {
+        top: 0px;
+    }
+
+    .planning-tab .timeline-circles .circle-2 p {
+        top: -4px;
+    }
+
+    .planning-tab .timeline-circles .circle-3 p {
+        top: -7px;
+    }
+
+.planning-tab .bottom-left h5:after {
+        bottom: -18px;
+        height: 245px;
+        right: -35px;
+        transform: rotate(230deg);
+        -webkit-transform: rotate(230deg);
+        -moz-transform: rotate(230deg);
+        -o-transform: rotate(230deg);
+        -ms-transform: rotate(230deg);
+    }
+
+    .planning-tab .top-left h5:after {
+        height: 170px;
+        right: -11px;
+        top: 3px;
+        transform: rotate(125deg);
+        -webkit-transform: rotate(125deg);
+        -moz-transform: rotate(125deg);
+        -o-transform: rotate(125deg);
+        -ms-transform: rotate(125deg);
+    }
+
+    .planning-tab .top-right h5:before {
+        height: 215px;
+        left: -23px;
+        top: 0;
+        transform: rotate(230deg);
+        -webkit-transform: rotate(230deg);
+        -moz-transform: rotate(230deg);
+        -o-transform: rotate(230deg);
+        -ms-transform: rotate(230deg);
+    }
+
+    .planning-tab .bottom-right h5:before {
+        bottom: -34px;
+        height: 280px;
+        left: -56px;
+        transform: rotate(125deg);
+        -webkit-transform: rotate(125deg);
+        -moz-transform: rotate(125deg);
+        -o-transform: rotate(125deg);
+        -ms-transform: rotate(125deg);
+    }
+
+    .planning-tab .alignleft p, .planning-tab .alignright p {
+        width: 231px;
+        padding: 18px 0 19px;
+    }
+	 .tabs-container.team-tab ul.tabs-frame {
+        width: 100%;
+    }
+
+    .blog-post.dt-sc-fullwidth .entry-thumb {
+        width: 43.2%;
+    }
+
+    .post-detail {
+        width: 52%;
+        padding: 0.4% 2%;
+    }
+
+    article.blog-post.dt-sc-fullwidth.alignright .entry-thumb {
+        float: right;
+    }
+
+    .blog-post.dt-sc-fullwidth .entry-thumb .image-overlay:after {
+        right: -49px;
+    }
+
+    .blog-post.dt-sc-fullwidth.alignright .entry-thumb .image-overlay:before {
+        left: -49px;
+    }
+	  .blog-post.dt-sc-fullwidth .entry-thumb .image-overlay {
+        width: 27%;
+        height: 77%;
+    }
+
+    .blog-post.dt-sc-fullwidth .entry-thumb .image-overlay a {
+        margin: 9% 0 0;
+    }
+	
+	
+	  .blog-post.blog-single-entry {
+        text-align: left;
+    }
+
+    .blog-single-entry .entry-details {
+        padding: 15px 0;
+        width: 100%;
+    }
+
+    .blog-single-entry .entry-details .entry-metadata {
+        width: 75%;
+    }
+
+    .blog-single-entry .entry-description .entry-body {
+        margin: 0px;
+    }
+
+    .blog-single-entry .entry-description .entry-body p {
+        margin-bottom: 0px;
+    }
+
+    .blog-single-entry .entry-details .entry-meta {
+        width: 85px;
+        height: 85px;
+        margin-right: 8px;
+    }
+
+    .blog-single-entry .entry-details .entry-meta .date {
+        margin-top: 15px;
+    }
+
+    .blog-single-entry .entry-details .entry-meta p {
+        line-height: 15px;
+        font-size: 12px;
+    }
+
+    .blog-single-entry .entry-title {
+        margin-bottom: 10px;
+        margin-top: 18px;
+        width: 77%;
+    }
+
+    .blog-single-entry .entry-title h4 {
+        font-size: 16px;
+    }
+
+    .blog-post .entry-meta:after {
+        display: none;
+    }
+
+    .blog-single-entry .entry-details .entry-meta {
+        padding-left: 0;
+    }
+
+    .blog-single-entry .entry-details .entry-metadata p {
+        margin: 0;
+    }
+ .blog-post blockquote {
+        padding: 11px 0 0 30px;
+        width: 80%;
+    }
+
+    .blog-single-entry .entry-body blockquote {
+        text-align: center;
+    }
+
+    .dt-sc-testimonial blockquote {
+        margin: 60px auto 20px;
+    }
+	  .dt-sc-contact-form .contact-form form, .dt-sc-contact-form .dt-sc-contact-info {
+        width: 75%;
+    }
+
+    .dt-sc-contact-form .contact-form p.submit input {
+        padding: 14px 25px 11px;
+    }
+
+    .dt-sc-contact-form .contact-form p.textarea-field span {
+        width: 28%;
+    }
+
+    .dt-sc-contact-form .contact-form p.textarea-field textarea {
+        width: 65%;
+    }
+
+     .dt-sc-contact-form .contact-form p textarea {
+        width: 73%;
+    }
+	 .dt-sc-contact-form .contact-form {
+        background-position: center right;
+        background-size: 100%;
+    }
+	 @media screen and (-webkit-min-device-pixel-ratio: 0) {
+        .dt-sc-one-fourth {
+            width:23.5%;
+        }
+    }
+	

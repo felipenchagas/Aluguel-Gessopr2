@@ -1,0 +1,162 @@
+/*!
+ *  Font Awesome 4.2.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+@font-face {
+    font-weight: normal;
+    font-style: normal;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+@keyframes fa-spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+.fa-envelope-o:before {
+    content: "\f003";
+}
+.fa-heart:before {
+    content: "\f004";
+}
+.fa-user:before {
+    content: "\f007";
+}
+.fa-search-plus:before {
+    content: "\f00e";
+}
+.fa-clock-o:before {
+    content: "\f017";
+}
+.fa-tags:before {
+    content: "\f02c";
+}
+.fa-camera:before {
+    content: "\f030";
+}
+
+.fa-picture-o:before {
+    content: "\f03e";
+}
+.fa-map-marker:before {
+    content: "\f041";
+}
+.fa-fast-forward:before {
+    content: "\f050";
+}
+.fa-plus:before {
+    content: "\f067";
+}
+.fa-leaf:before {
+    content: "\f06c";
+}
+.fa-eye:before {
+    content: "\f06e";
+}
+.fa-shopping-cart:before {
+    content: "\f07a";
+}
+
+.fa-cogs:before {
+    content: "\f085";
+}
+.fa-comments:before {
+    content: "\f086";
+}
+.fa-external-link:before {
+    content: "\f08e";
+}
+.fa-trophy:before {
+    content: "\f091";
+}
+.fa-phone:before {
+    content: "\f095";
+}
+.fa-twitter:before {
+    content: "\f099";
+}
+.fa-facebook:before {
+    content: "\f09a";
+}
+.fa-bullhorn:before {
+    content: "\f0a1";
+}
+.fa-globe:before {
+    content: "\f0ac";
+}
+
+.fa-link:before {
+    content: "\f0c1";
+}
+.fa-flask:before {
+    content: "\f0c3";
+}
+.fa-magic:before {
+    content: "\f0d0";
+}
+.fa-truck:before {
+    content: "\f0d1";
+}
+.fa-pinterest:before {
+    content: "\f0d2";
+}
+.fa-google-plus:before {
+    content: "\f0d5";
+}
+.fa-envelope:before {
+    content: "\f0e0";
+}
+.fa-linkedin:before {
+    content: "\f0e1";
+}
+
+.fa-bolt:before {
+    content: "\f0e7";
+}
+.fa-file-text-o:before {
+    content: "\f0f6";
+}
+.fa-angle-left:before {
+    content: "\f104";
+}
+.fa-angle-right:before {
+    content: "\f105";
+}
+.fa-desktop:before {
+    content: "\f108";
+}
+.fa-html5:before {
+    content: "\f13b";
+}
+.fa-css3:before {
+    content: "\f13c";
+}
+.fa-anchor:before {
+    content: "\f13d";
+}
+.fa-youtube:before {
+    content: "\f167";
+}
+.fa-flickr:before {
+    content: "\f16e";
+}
+.fa-tumblr:before {
+    content: "\f173";
+}
+.fa-dribbble:before {
+    content: "\f17d";
+}
+.fa-wordpress:before {
+    content: "\f19a";
+}
